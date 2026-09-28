@@ -1,6 +1,6 @@
 {
   "client_id": "https://raw.githubusercontent.com/ZazzleDev/mcp_cimd/main/mcp-live-test.json",
-  "client_name": "Zazzle API contract tests (CIMD)",
+  "client_name": "API contract tests (CIMD)",
   "client_uri": "https://github.com/ZazzleDev/mcp_cimd",
   "redirect_uris": [
     "http://127.0.0.1:6274/oauth/callback",
