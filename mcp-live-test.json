@@ -1,0 +1,13 @@
+{
+  "client_id": "https://zazzle.github.io/mcp_cimd/mcp-live-test.json",
+  "client_name": "Zazzle API contract tests (CIMD)",
+  "client_uri": "https://github.com/zazzle/mcp_cimd",
+  "redirect_uris": [
+    "http://127.0.0.1:6274/oauth/callback",
+    "http://localhost:6274/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "none",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "scope": "catalog_read search_marketplace_read design_tool image_write cart_basic"
+}
